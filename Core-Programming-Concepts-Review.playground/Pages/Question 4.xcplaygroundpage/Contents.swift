@@ -22,6 +22,29 @@
  */
 // Answer question 4 below
 
+var dinerCount : Int = 4
+print(" can't have half of a coin, just like you can't have half of a dog.")
+
+var saladBarConsumption : Double = 3.4
+print("can't count salad with how many, instead we use how much, so it's like how many kg.")
+
+var soupConsumption : Double = 1.2
+print("volume in litre can have decimals.")
+
+var mainCourseConsumption : Double = 3.4
+print("mass can have deciamls in kg")
+
+var pizzaOvenItemConsumption : Double = 15.6
+print("mass can have decimals in kg")
+
+var date : String = "Thursday, January 18, 2018"
+print("string is used for words.")
+
+var timeFrame : String = "11:30 AM to 1:00 PM"
+print("string is used for words.")
+
+
+
 /*:
  ## Now share your understanding
  
