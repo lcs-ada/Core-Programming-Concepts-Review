@@ -19,6 +19,17 @@
  */
 // Answer question 2 below
 
+var numberOfCommits = 10 // the number of commits can keep adding depends on the student.
+
+var numberOfForks = 31 // number of fork is a variable because it adds up, and become a number.
+
+let yearCreated = 2018 //year created doens't change
+
+let monthCreated = 7 //month created doens't change
+
+let dayCreated = 28// day created doesn't change
+
+
 /*:
  ## Now share your understanding
  
